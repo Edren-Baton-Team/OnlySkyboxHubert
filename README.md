@@ -1,0 +1,1 @@
+[![Downloads](https://img.shields.io/github/downloads/Edren-Baton-Team/OnlySkyboxHubert/total?color=brown&label=Downloads&style=for-the-badge)](https://github.com/Edren-Baton-Team/OnlySkyboxHubert/releases)
