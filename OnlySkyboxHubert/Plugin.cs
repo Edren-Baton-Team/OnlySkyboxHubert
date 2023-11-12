@@ -2,7 +2,7 @@
 using HarmonyLib;
 using System;
 
-namespace AntiPacketDOS
+namespace OnlySkyboxHubert
 {
     public class Plugin : Plugin<Config>
     {
