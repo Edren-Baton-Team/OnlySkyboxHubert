@@ -1,7 +1,7 @@
 ﻿using Exiled.API.Interfaces;
 using System.ComponentModel;
 
-namespace AntiPacketDOS
+namespace OnlySkyboxHubert
 {
     public class Config : IConfig
     {
