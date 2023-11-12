@@ -2,12 +2,12 @@
 using HarmonyLib;
 using Mirror;
 
-namespace AntiPacketDOS
+namespace OnlySkyboxHubert
 {
     public static class HarmonyPatchs
     {
         [HarmonyPatch(typeof(SkyboxHubert), nameof(SkyboxHubert.SerializeSyncVars))]
-        internal static class NetManagerNativeReceiveFrom
+        internal static class SkyboxHubertSerializeSyncVars
         {
             private static bool Prefix(NetworkWriter writer, bool forceAll)
             {
